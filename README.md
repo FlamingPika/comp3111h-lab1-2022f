@@ -1,4 +1,4 @@
-# comp3111h-lab1-2022f
-First COMP3111H Lab Assignment about git
-Name: Wilson Thiesan
+Name: Wilson Thiesman</br>
 SID: 20736538
+
+![history_screenshot](history.png)
